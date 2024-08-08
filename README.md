@@ -7,3 +7,5 @@
 |2024.8.5.|chap06-class-and-object|[1. level02-normal-book](chap06-class-and-object-practice/src/main/java/kr/huichan/level02/normal/book) <br>[2. level01-basic-student](chap06-class-and-object-practice/src/main/java/kr/huichan/level01/basic/student)|
 |2024.8.7.|chap08-polymorphism|[level01-basic](chap08-class-and-object-practice/src/kr/huichan/level01/basic)|
 |2024.8.7.|chap09-api|[level01-basic](chap09-api/src/kr/huichan/level01/basic)|
+|2024.8.8.|chap10-exception|[level01-basic](chap10-exception/src/kr/huichan/level01/basic)|
+|2024.8.8.|chap11-io|[level01-basic](chap11-io/src/kr/huichan/level01/basic)|
