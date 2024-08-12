@@ -10,3 +10,4 @@
 |2024.8.8.|chap10-exception|[level01-basic](chap10-exception/src/kr/huichan/level01/basic)|
 |2024.8.8.|chap11-io|[level01-basic](chap11-io/src/kr/huichan/level01/basic)|
 |2024.8.9.|chap12-generic|[level01-normal](chap12-generic/src/kr/huichan/level01/normal)<br>[level01-basic](chap12-generic/src/kr/huichan/level01/basic)|
+|2024.8.12.|chap13-collection|[level01-basic](chap13-collection/src/kr/huichan/level01/basic)|
